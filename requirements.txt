@@ -1,0 +1,16 @@
+streamlit
+opencv-python
+numpy
+pandas
+plotly
+google-generativeai
+python-dotenv
+requests
+torch
+torchvision
+Pillow
+ultralytics
+matplotlib
+easyocr
+moviepy
+ffmpeg-python
