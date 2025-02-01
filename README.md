@@ -25,7 +25,7 @@
 10. **SWOT Analysis:** Generate strengths, weaknesses, opportunities, and threats of the player 📌
 11. **AI-Powered Insights:** Use Gemini API to generate engaging content ✨
 
-![Summary Chart](MINed.jfif)
+![Summary Chart](Images/MINed.jfif)
 ## 🎨 Features
 - 📊 Comprehensive Player Stats
 - 📹 Auto-Generated Highlight Video
@@ -47,11 +47,11 @@
 - Makesense AI annotator 📸
 
 ## 📸 Screenshots
-![Home Page](1.jfif)
-![Player stats](2.jfif)
-![Graph](3.jfif)
-![SWOT](4.jfif)
-![Highlight](5.jfif)
+![Home Page](Images/1.jfif)
+![Player stats](Images/2.jfif)
+![Graph](Images/3.jfif)
+![SWOT](Images/4.jfif)
+![Highlight](Images/5.jfif)
 ## 🔧 Installation & Usage
 1️⃣ Clone the repo:
 ```bash
