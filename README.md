@@ -52,8 +52,8 @@
 ## 🔧 Installation & Usage
 1️⃣ Clone the repo:
 ```bash
- git clone https://github.com/siya25097/valorant-analyzer.git
- cd valorant-analyzer
+ git clone https://github.com/siya25097/PlayPulse.git
+ cd PlayPulse
 ```
 
 2️⃣ Install dependencies:
